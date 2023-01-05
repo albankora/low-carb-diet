@@ -1,10 +1,10 @@
 
 # Recipies
-https://akispetretzikis.com/en/recipe/3617/prasinh-salata-me-apoxhramena-syka-kai-blue-cheese
-https://akispetretzikis.com/en/recipe/4600/politikh-salata
-https://akispetretzikis.com/en/recipe/3273/patatosalata
-https://akispetretzikis.com/en/recipe/6842/healthy-makaronosalata-me-pesto-piperias-high-protein
-https://akispetretzikis.com/en/recipe/2139/patatosalata-me-giaoyrti
+- https://akispetretzikis.com/en/recipe/3617/prasinh-salata-me-apoxhramena-syka-kai-blue-cheese
+- https://akispetretzikis.com/en/recipe/4600/politikh-salata
+- https://akispetretzikis.com/en/recipe/3273/patatosalata
+- https://akispetretzikis.com/en/recipe/6842/healthy-makaronosalata-me-pesto-piperias-high-protein
+- https://akispetretzikis.com/en/recipe/2139/patatosalata-me-giaoyrti
 https://akispetretzikis.com/en/recipe/4728/rwsikh-salata
 https://akispetretzikis.com/en/recipe/543/caesar-salad
 https://akispetretzikis.com/en/recipe/3313/krya-salata-kotopoylo

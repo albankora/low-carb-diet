@@ -1,4 +1,4 @@
-# healthy-gut
+# Healthy Gut
 
 ## Plant-based diet 
 - Vegetables (such as spinach, carrots, broccoli, bell peppers, cauliflower, asparagus, kale)

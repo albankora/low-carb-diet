@@ -1,27 +1,29 @@
 # Healthy Gut
 
+| Monday  | Tuesday | Wednesday  | Thursday | Friday     | Saturday | Sunday |
+| ------- | ------- | ---------- | -------- | -------    | -------- | ------ |
+| Legume  | Chicken | Fish       | Legume   | Vegetarian | Lamp  | Free   |
+| Greek Salad | Beetroot salad | Olive salad   | Broccoli salad  |  Fennel Salad | Green salad | Cabbage Salad |
+| Kiwi | apple | orange  | banana  |  Raspberries | Mandarin | blueberries |
+| Almonds | Cashews | Hazelnuts  | Walnuts  |  Pistachios | Brazil | Macadamia |
+
+## Legumes
+- Chickpeas
+- Beans
+- Lentils 
+- Fava beans
+
+## Vegetables
+- te mbushura
+- turli
+- Okra
+
 ## Eat these foods in moderation
 - Meat (such as beef, chicken, and pork)
 - Fish and seafood
 - Eggs
 - Dairy (such as milk, cheese, and yogurt)
 - Dark chocolate
-
-## Vegetables
-- spinach
-- carrots 
-- broccoli
-- green peas
-- chickpeas
-- bell peppers 
-- cauliflower 
-- asparagus
-- kale
-- onions
-- artichokes
-- lentils
-- beans
-- lemon
 
 ## Fruit
 - strawberries
@@ -33,31 +35,14 @@
 - raspberries
 - kiwi fruit
 - peaches
-- raspberries
 - bananas
 - apples
-
-## Legumes
-- chickpeas
-- kidney beans
-- black beans
-- peas
-- lentils 
-- fava beans
 
 ## Fermented Food
 - Yougurt
 - Kefir
 - red wine
 - beer
-
-# Whole grains
-- brown rice 
-- quinoa 
-- barley 
-- oats
-- buckwheat
-- bulgur
 
 ## Seeds
 - whole grains (Oats, Wheat)

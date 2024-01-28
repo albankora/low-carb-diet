@@ -3,11 +3,14 @@
 | ####      | Monday          | Tuesday         | Wednesday       | Thursday        | Friday          | Saturday        | Sunday          |
 | --------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
 | Breakfast | Protein shake   | Protein shake   | Protein shake   | Protein shake   |  Protein shake  | Protein shake   | Protein shake   |
+| Breakfast | Tee             | Tee             | Tee             | Tee             |  Tee            | Tee             | Tee             |
 | Breakfast | Oats            | Oats            | Oats            | Oats            |  Oats           | Oats            | Oats            |
 | Breakfast | Egg             | Egg             | Egg             | Egg             |  Egg            | Egg             | Egg             |
 | Side      | Kiwi            | Apple           | Orange          | Banana          |  Raspberries    | Mandarin        | Blueberries     |
+| Lunch     | Tee             | Tee             | Tee             | Tee             |  Tee            | Tee             | Tee             |
 | Lunch     | Legume          | Chicken         | Fish            | Legume          | Vegetarian      | Lamp            | Free            |
 | Lunch     | Greek Salad     | Beetroot salad  | Olive salad     | Broccoli salad  |  Fennel Salad   | Green salad     | Cabbage Salad   |
+| Side      | Tee             | Tee             | Tee             | Tee             |  Tee            | Tee             | Tee             |
 | Side      | Almonds         | Cashews         | Hazelnuts       | Walnuts         |  Pistachios     | Brazil          | Macadamia       |
 | Dinner    | Weetabix yogurt | Weetabix yogurt | Weetabix yogurt | Weetabix yogurt |  Weetabix yogurt| Weetabix yogurt | Weetabix yogurt |
 
